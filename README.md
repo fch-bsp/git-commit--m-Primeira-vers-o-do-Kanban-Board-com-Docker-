@@ -1,5 +1,7 @@
 # Kanban Board em Docker
 
+![Image](https://github.com/user-attachments/assets/5e1da5e3-3652-41fb-82e5-af47d6bf3cc4)
+
 Uma aplicação simples de Kanban Board para gerenciamento de tarefas, executando em Docker.
 
 ## Funcionalidades
