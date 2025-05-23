@@ -54,16 +54,6 @@ kanban/
 └── docker-compose.yml      # Configuração do Docker Compose
 ```
 
-
-# Inicializar o repositório Git
-git init
-
-# Adicionar todos os arquivos ao Git
-git add .
-
-# Fazer o primeiro commit
-git commit -m "Primeira versão do Kanban Board com Docker"
-
 # Criar um novo repositório no GitHub pelo navegador e depois executar:
 git branch -M main
 git remote add origin https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
